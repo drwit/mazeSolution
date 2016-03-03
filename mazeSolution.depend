@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1457007658 source:c:\2016spring\mazesolution\mazesolution\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"Maze.h"
+	"Tracker.h"
+	"consoleOperation.h"
+
+1456987092 source:c:\2016spring\mazesolution\mazesolution\maze.cpp
+	<iostream>
+	"Maze.h"
+
+1456987092 c:\2016spring\mazesolution\mazesolution\maze.h
+
+1457007468 source:c:\2016spring\mazesolution\mazesolution\tracker.cpp
+	<iostream>
+	<windows.h>
+	"Tracker.h"
+	"consoleOperation.h"
+
+1456987125 c:\2016spring\mazesolution\mazesolution\tracker.h
+	"Maze.h"
+
+1456880571 source:c:\2016spring\mazesolution\mazesolution\consoleoperation.cpp
+	<iostream>
+	"consoleOperation.h"
+
+1456880535 c:\2016spring\mazesolution\mazesolution\consoleoperation.h
+	"Maze.h"
+	"Tracker.h"
+
